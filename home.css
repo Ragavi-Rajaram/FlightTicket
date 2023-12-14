@@ -1,0 +1,10 @@
+body{
+    background-image: url(../styles/f4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 160px;
+    color:black;
+    font-weight: 400;
+}
